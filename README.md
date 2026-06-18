@@ -1,5 +1,4 @@
-# ABC Stress Assessment of Mormyridae in the Niger River
-
+# Ecological stress in Mormyridae population of Niger river in city fisheries (Niger)
 
 
 ## Description
