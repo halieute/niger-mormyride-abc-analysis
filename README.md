@@ -5,7 +5,7 @@
 ## Description
 This repository contains the Python code and raw data used for the manuscript:
 
-> **"Ecological stress in Mormyridae populations of the Niger River urban fisheries: an ABC‑based assessment integrated with physico‑chemical drivers"**  
+> **"Ecological stress in Mormyridae populations of the Niger River urban fisheries: an ABC‑based assessment integrated with physico‑chemical drivers"**
 > Souleymane Souley et al.
 
 The code computes:
